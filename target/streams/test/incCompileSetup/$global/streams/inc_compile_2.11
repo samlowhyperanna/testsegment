@@ -1,0 +1,178 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/samlow/Documents/git/testsegment/target/scala-2.11/test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.11
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> /Users/samlow/Documents/git/testsegment/target/scala-2.11/test-classes/SegmentTest$$anonfun$1$$anonfun$posttoSegment$1$1.class
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> /Users/samlow/Documents/git/testsegment/target/scala-2.11/test-classes/SegmentTest$$anonfun$1.class
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> /Users/samlow/Documents/git/testsegment/target/scala-2.11/test-classes/SegmentTest.class
+binary dependencies:
+5 items
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> /Users/samlow/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> /Users/samlow/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.3.jar
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> /Users/samlow/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-2.3.0.jar
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> /Users/samlow/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.3.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> SegmentTest
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> SegmentTest$$anonfun$1
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> SegmentTest$$anonfun$1$$anonfun$posttoSegment$1$1
+used names:
+87 items
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> <byname>
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> <init>
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> <repeated>
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Any
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Await
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Awaitable
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Boolean
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Duration
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Exception
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> ExecutionContext
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> ExecutionContextExecutor
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Failure
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> FunSuite
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Future
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Http
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> HttpOption
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> HttpOptions
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> HttpRequest
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> HttpResponse
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Implicits
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Inf
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Infinite
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Int
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Long
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> MatchError
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Millis
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Nothing
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Option
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> PatienceConfig
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Position
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Predef
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> ScalaFutures
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Seconds
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> SegmentTest
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> SegmentURL
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Span
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> String
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> StringContext
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Success
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> System
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> T
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> T0
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Tag
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Throwable
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Try
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Unit
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> Units
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> a
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> apply
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> asInstanceOf
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> asString
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> auth
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> concurrent
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> currentTimeMillis
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> defaultPatience
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> duration
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> e
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> exception
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> get
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> global
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> header
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> here
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> http
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> isInstanceOf
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> java
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> lang
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> option
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> org
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> package
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> postData
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> posttoSegment
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> printStackTrace
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> println
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> readTimeout
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> ready
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> result
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> s
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> scala
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> scalactic
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> scalaj
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> scalatest
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> source
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> t
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> test
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> time
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> util
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> value
+product stamps:
+3 items
+/Users/samlow/Documents/git/testsegment/target/scala-2.11/test-classes/SegmentTest$$anonfun$1$$anonfun$posttoSegment$1$1.class -> lastModified(1510574136000)
+/Users/samlow/Documents/git/testsegment/target/scala-2.11/test-classes/SegmentTest$$anonfun$1.class -> lastModified(1510574136000)
+/Users/samlow/Documents/git/testsegment/target/scala-2.11/test-classes/SegmentTest.class -> lastModified(1510574136000)
+source stamps:
+1 items
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> hash(0652c69b0daf8fc8d2386f457030387d3ab686c5)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/samlow/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> lastModified(1492113025000)
+/Users/samlow/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.3.jar -> lastModified(1492678778000)
+/Users/samlow/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-2.3.0.jar -> lastModified(1459630353000)
+/Users/samlow/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.3.jar -> lastModified(1492678902000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.String
+/Users/samlow/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> scala.Predef$
+/Users/samlow/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.3.jar -> org.scalactic.source.Position
+/Users/samlow/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-2.3.0.jar -> scalaj.http.HttpOptions$
+/Users/samlow/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.3.jar -> org.scalatest.FunSuite
+internal apis:
+1 items
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwASUeSwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBAv8vsdAASY29udmVydFNjYWxhRnV0dXJlc3EAfgALbB+2onQAEmNvbnZlcnRUb0VxdWFsaXplcnNxAH4AC/IDO110AA9kZWZhdWx0UGF0aWVuY2VzcQB+AAtLHNEZdAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgAL6WeBbXQADnBhdGllbmNlQ29uZmlndXEAfgAJAAAAgHNxAH4AC88VL3p0AAZhc3NlcnRzcQB+AAuarB5IdAAHc3VjY2VlZHNxAH4ACyhWe8V0AAZub3RpZnlzcQB+AAvvXHDvdAAManNBZGp1c3RtZW50c3EAfgALijp+InQAJmxvd1ByaW9yaXR5Q29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALp3iFqXQAB3VuYXBwbHlzcQB+AAtZIqgKdAAHY3VycmllZHNxAH4AC0GrxKR0ABBBc3NlcnRpb25zSGVscGVyc3EAfgALkF3F2XQABmNhbmNlbHNxAH4AC2ZIfyR0AAR0ZXN0c3EAfgAL0LN7CnQAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALvknLTXQACWludGVyY2VwdHNxAH4AC8b6egN0AARmYWlsc3EAfgALWgURCXQABG5hbWVzcQB+AAus0JOvdAAUYXNzZXJ0RG9lc05vdENvbXBpbGVzcQB+AAvCwg62dAARZXhlY3V0ZSRkZWZhdWx0JDRzcQB+AAto2C7YdAAHZXhlY3V0ZXNxAH4AC++z5/l0AAR3YWl0c3EAfgALz/HZrXQAC3Rlc3REYXRhRm9yc3EAfgALZ3Q5T3QAE2NyZWF0ZUNhdGNoUmVwb3J0ZXJzcQB+AAtSXPH6dAAJc3R5bGVOYW1lc3EAfgALlhpFm3QADmNvcHkkZGVmYXVsdCQyc3EAfgALiNHo2HQADSRhc0luc3RhbmNlT2ZzcQB+AAu7qQ2SdAARZXhlY3V0ZSRkZWZhdWx0JDNzcQB+AAtlCFuOdAAKaXNDYW5jZWxlZHNxAH4AC55WZoN0ABA8aW5pdD4kZGVmYXVsdCQxc3EAfgALItn4vnQACWNvbmZpZ01hcHNxAH4AC4XGugR0AAxwcm9kdWN0QXJpdHlzcQB+AAuf5O45dAAGZXF1YWxzc3EAfgALqBK273QALGNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALDQHfb3QAD2RlZmF1bHRFcXVhbGl0eXNxAH4AC27g6150ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb25zdHJhaW50c3EAfgAL3KnRMXQABHRhZ3NzcQB+AAvLDCn4dAAMYXNJbnN0YW5jZU9mc3EAfgALutZm8nQABWFsZXJ0c3EAfgAL0ZVkPXQAA3J1bnNxAH4AC7AdAs10AAtTZWdtZW50VGVzdHNxAH4ACw8oB4B0AAZzY29wZXNzcQB+AAsiNp4odAADcG9zc3EAfgALKcX2FnQADHN5bmNocm9uaXplZHNxAH4ACzPjlON0AA5hc3NlcnRDb21waWxlc3NxAH4AC1ijxl10AAxhc3NlcnRUaHJvd3NzcQB+AAu0KT/zdAANJGlzSW5zdGFuY2VPZnNxAH4AC3GTGAR0AAR0cmFwc3EAfgALV0HA9XQAFXRlc3REYXRhRm9yJGRlZmF1bHQkMnNxAH4ACzL3Ocp0AAxhc3NlcnRSZXN1bHRzcQB+AAu1FLJrdAAGdHVwbGVkc3EAfgALuhcZWXQABHRleHRzcQB+AAu81FAXdAAsY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAv5pfugdAAIY2FuRXF1YWxzcQB+AAsiNlJpdAARZXhlY3V0ZSRkZWZhdWx0JDdzcQB+AAtPyqPedAANcHJvZHVjdFByZWZpeHNxAH4AC5+cpz50ABV0eXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAseD3JzdAADIT09c3EAfgALQlvDhnQAC2Z1dHVyZVZhbHVlc3EAfgALU4OD23QABGluZm9zcQB+AAsV1VGHdAAPZnV0dXJlVmFsdWVJbXBsc3EAfgALyOA5Q3QACW5vdGlmeUFsbHNxAH4AC239P4N0AAt3aXRoRml4dHVyZXNxAH4ACzvGYm90AAdydW5UZXN0c3EAfgALgKdDhHQADGlzSW5zdGFuY2VPZnNxAH4ACwJQGa90AAh3aXRoQ2x1ZXNxAH4ACz66yGB0ABBhc3NlcnRpb25zSGVscGVyc3EAfgALyDi8CHQAEWV4ZWN1dGUkZGVmYXVsdCQ2c3EAfgALH1cpHXQAD2Fzc2VydFR5cGVFcnJvcnNxAH4AC2H1s2R0AAZtYXJrdXBzcQB+AAszHkqidAAIbGVmdFNpZGVzcQB+AAu+XD5+dAAGPGluaXQ+c3EAfgALoPceIHQAC21hY3JvQXNzdW1lc3EAfgALUxoSGHQAD3J1bk5lc3RlZFN1aXRlc3NxAH4ACxL/jpB0AAhpbnRlcnZhbHNxAH4AC5PYtul0AA9hcHBseSRkZWZhdWx0JDJzcQB+AAufagYddAAFYXBwbHlzcQB+AAv3MFDHdAAGc2NhbGVkc3EAfgALm5Oi33QACUVxdWFsaXplcnNxAH4AC5r5ApZ0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAvVlge9dAAEbm90ZXNxAH4AC8xupuF0AAI9PXNxAH4ACxoIFIx0AAVjbG9uZXNxAH4AC3M59Up0AAtlaXRoZXJWYWx1ZXNxAH4AC2adnX10AAxuZXN0ZWRTdWl0ZXNzcQB+AAsn6UFfdAAGYXNzdW1lc3EAfgAL1Mc/LnQABiRpbml0JHNxAH4AC8lsjiF0ACBsb3dQcmlvcml0eVR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC7dHiRR0AAxyZWdpc3RlclRlc3RzcQB+AAvBJ8ibdAARZXhlY3V0ZSRkZWZhdWx0JDVzcQB+AAu3CBSudAAEY29weXNxAH4AC8vIJNV0AA9hcHBseSRkZWZhdWx0JDFzcQB+AAtRaiDTdAADPT09c3EAfgALUWKabXQAGG5ld1Rlc3RDYW5jZWxlZEV4Y2VwdGlvbnNxAH4AC3HtbeJ0AAh0b1N0cmluZ3NxAH4AC33nUat0AAl0ZXN0TmFtZXNzcQB+AAtg2apxdAAPeWVPbGRlVGVzdE5hbWVzc3EAfgALAWp6EXQACXdoZW5SZWFkeXNxAH4AC6RCou10ABFleGVjdXRlJGRlZmF1bHQkMXNxAH4ACzkWkbR0AAIhPXNxAH4ACyM1rlR0AAhnZXRDbGFzc3NxAH4AC8rRKpp0ABNyZWdpc3Rlcklnbm9yZWRUZXN0c3EAfgAL/pZhLnQACHRlc3RzRm9yc3EAfgALgc9gaXQADmNvcHkkZGVmYXVsdCQxc3EAfgALnAG0R3QACHJ1blRlc3Rzc3EAfgALXjHiQnQAEXBlbmRpbmdVbnRpbEZpeGVkc3EAfgALiP44cnQAEWV4cGVjdGVkVGVzdENvdW50c3EAfgAL5mmwunQACHJlcnVubmVyc3EAfgALFrNbsXQADUZ1dHVyZUNvbmNlcHRzcQB+AAs0wm+qdAAiY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29uc3RyYWludHNxAH4AC9gkZVN0AAJuZXNxAH4AC59Oukt0AA1pc1JlYWR5V2l0aGluc3EAfgALHNBKEXQACWlzRXhwaXJlZHNxAH4AC9NOjTB0AAd0aW1lb3V0c3EAfgALkC9jCXQAEUNoZWNraW5nRXF1YWxpemVyc3EAfgALC1kg8XQAB3BlbmRpbmdzcQB+AAs85hkCdAAGaWdub3Jlc3EAfgALwmOgT3QAC21hY3JvQXNzZXJ0c3EAfgALcqeMjXQAEDxpbml0PiRkZWZhdWx0JDJzcQB+AAuxtZHvdAACZXFzcQB+AAuPyzhJdAAaY29udmVydFRvQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAuN9Lb2dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALrhXRRnQAD3NwYW5TY2FsZUZhY3RvcnNxAH4ACxwVpk50AAlOb0FyZ1Rlc3RzcQB+AAtavlB0dAACIyNzcQB+AAvYef82dAAOUGF0aWVuY2VDb25maWdzcQB+AAs/Qob2dAAIZmluYWxpemVzcQB+AAviR0hfdAAbY29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALC0u2RnQADnByb2R1Y3RFbGVtZW50c3EAfgALeAt4g3QACGhhc2hDb2Rlc3EAfgALtZsOS3QAB3N1aXRlSWRzcQB+AAsxtSIYdAAJc3VpdGVOYW1lc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BIXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgE6c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ASFMAAlpbmhlcml0ZWRxAH4BIUwAB3BhcmVudHNxAH4BIXhxAH4BP3NxAH4BOnVxAH4BHAAAAABzcQB+ATp1cQB+ARwAAAAAc3EAfgE6dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAABVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgE+dAAMU2NhbGFGdXR1cmVzc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgE+c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AVd0AAlzY2FsYXRlc3RzcQB+AVd0AApjb25jdXJyZW50c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AVhzcQB+AUt0AAdGdXR1cmVzcQB+AVFzcQB+AUt0ABVQYXRpZW5jZUNvbmZpZ3VyYXRpb25xAH4BUXNxAH4BS3QAHUFic3RyYWN0UGF0aWVuY2VDb25maWd1cmF0aW9ucQB+AVFzcQB+AUt0AA9TY2FsZWRUaW1lU3BhbnNxAH4BUXNxAH4BS3QACEZ1blN1aXRlc3EAfgFPc3EAfgFSdXEAfgFVAAAAA3NxAH4BV3QAA29yZ3NxAH4BV3QACXNjYWxhdGVzdHEAfgFgc3EAfgFLdAAMRnVuU3VpdGVMaWtlcQB+AWtzcQB+AUt0AAtEb2N1bWVudGluZ3EAfgFrc3EAfgFLdAAIQWxlcnRpbmdxAH4Ba3NxAH4BS3QACU5vdGlmeWluZ3EAfgFrc3EAfgFLdAAJSW5mb3JtaW5ncQB+AWtzcQB+AUt0ABBUZXN0UmVnaXN0cmF0aW9ucQB+AWtzcQB+AUt0AAlUZXN0U3VpdGVxAH4Ba3NxAH4BS3QABVN1aXRlcQB+AWtzcQB+AUt0AAxTZXJpYWxpemFibGVzcQB+AU9zcQB+AVJ1cQB+AVUAAAACc3EAfgFXdAAFc2NhbGFxAH4BYHNxAH4BS3EAfgGDc3EAfgFPc3EAfgFSdXEAfgFVAAAAA3NxAH4BV3QABGphdmFzcQB+AVd0AAJpb3EAfgFgc3EAfgFLdAAKQXNzZXJ0aW9uc3EAfgFrc3EAfgFLdAAMVHJpcGxlRXF1YWxzc3EAfgFPc3EAfgFSdXEAfgFVAAAAA3NxAH4BV3QAA29yZ3NxAH4BV3QACXNjYWxhY3RpY3EAfgFgc3EAfgFLdAATVHJpcGxlRXF1YWxzU3VwcG9ydHEAfgGVc3EAfgFLdAAGT2JqZWN0c3EAfgFPc3EAfgFSdXEAfgFVAAAAA3NxAH4BV3EAfgGOc3EAfgFXdAAEbGFuZ3EAfgFgc3EAfgFLdAADQW55cQB+AYR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX7U8CDx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABGL1VzZXJzL3NhbWxvdy9Eb2N1bWVudHMvZ2l0L3Rlc3RzZWdtZW50L3RhcmdldC9zY2FsYS0yLjExL3Rlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAZSxpsNr4/I0jhvRXAwOH06tobF
+external apis:
+0 items
+source infos:
+1 items
+/Users/samlow/Documents/git/testsegment/src/test/scala/segmenttest.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX7U6RkJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9zYW1sb3cvRG9jdW1lbnRzL2dpdC90ZXN0c2VnbWVudC90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX7U8CDx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9zYW1sb3cvRG9jdW1lbnRzL2dpdC90ZXN0c2VnbWVudC90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
